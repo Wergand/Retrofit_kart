@@ -4,7 +4,7 @@
     "tytul": "Szachy",
     "minLG": "2",
     "maxLG": "2",
-    "czas": "1 godzina",
+    "czas": "60",
     "trudnosc": 5
   },
   {
@@ -12,7 +12,7 @@
     "tytul": "Splendor",
     "minLG": "3",
     "maxLG": "4",
-    "czas": "2 godziny",
+    "czas": "120",
     "trudnosc": 3
   },
   {
@@ -20,7 +20,7 @@
     "tytul": "DND",
     "minLG": "2",
     "maxLG": "8",
-    "czas": "20 godzin",
+    "czas": "160",
     "trudnosc": 2 
   }
 ]
